@@ -38,7 +38,7 @@ information on using pip and installing a virtual environment.
 
 ## Run all tests
 
-  (venv)$ nosetests
+    (venv)$ nosetests
 
 ### Note on test data
 There are tons of test data available in `tests/data/collections`, most
