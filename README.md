@@ -17,7 +17,7 @@ This solver implements the DLX algorithm as described by Knuth but the
 reduction of a Sudoku to a exact cover problem is not truly a full reduction
 because its reduced directly to the links used in DLX. The full reduction would
 have been to first reduce the Sudoku to a binary matrix and then create the
-links used in DLX. The only reason for this is gain in performancu but it is
+links used in DLX. The only reason for this is gain in performance but it is
 less flexible since this reduction can only be used with DLX.
 
 ## License
