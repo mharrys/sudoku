@@ -20,7 +20,7 @@ class SudokuError(Exception):
 
 
 class Sudoku(object):
-    """Complets all necessary steps to solve a Sudoku challenge using
+    """Complete all necessary steps to solve a Sudoku challenge using
     Dancing Links (DLX) including validating the challenge and building and
     validating the possible solution found by DLX.
 
