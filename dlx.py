@@ -24,7 +24,7 @@ class ColumnObject(DataObject):
 
 
 class DLX(object):
-    """Encapsulates the Dancing Links algorithm.
+    """Solves exact cover problems using the Dancing Links algorithm.
     """
 
     def __init__(self, h, callback):
