@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mharrys/sudoku.svg?branch=master)](https://travis-ci.org/mharrys/sudoku)
+
 # Sudoku solver using Dancing Links (DLX)
 Sudoku can be reduced to a exact cover problem which is known to be
 NP-complete. The classification of NP-complete is only for a generalized nxn
