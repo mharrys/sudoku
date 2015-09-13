@@ -8,7 +8,7 @@ Sudoku and not a 9x9 Sudoku because it is a finite instance.
 The exact cover problem is a decision problem where the objective is to find a
 exact cover. Given a set S and another set where each element is a subset to
 S, is is possible to select a set of subsets such that every element in S
-exist in exactly one of the seleceted sets? This selection of sets is said to
+exist in exactly one of the selected sets? This selection of sets is said to
 be a cover of the set S.
 
 Algorithm X (ALX) created by Donald Knuth can be used to find all solutions to
